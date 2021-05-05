@@ -1,0 +1,37 @@
+body {
+  background: #D5D8DC;
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+}
+
+section {
+  width: 100%
+  margin:auto;
+}
+
+header {
+  width: 100%;
+  background: #17202A;
+  color: #FFF;
+}
+
+aside {
+  width: 30%;
+  height: 400px;
+  float: right;
+  background: #333FFF;
+}
+
+main {
+  width: 60%;
+  height: auto;
+  float: left;
+  background: #2E4053;
+}
+
+footer {
+  clear: both;
+  background: #000;
+  color: #FFF;
+  width: 100%;
+}
